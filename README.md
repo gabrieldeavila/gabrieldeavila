@@ -8,6 +8,6 @@ I transform ideas into code and do my best to solve users' problems, using the c
 
 I build web apps with JavaScript, HTML, CSS, and PHP. I prefer, most of the time, to use React.
 
-Currently I am learning React, Redux and UI/UX techniques.
+Currently, I am learning React, Redux and UI/UX techniques.
 
 😄
