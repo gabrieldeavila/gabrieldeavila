@@ -6,8 +6,6 @@
 
 I transform ideas into code and do my best to solve users' problems, using the cleverest way possible. 
 
-I build web apps with JavaScript, HTML, CSS, and PHP. I prefer, most of the time, to use React.
-
-Currently, I am learning React, Redux and UI/UX techniques.
+I build web apps with JavaScript, HTML, MYSQL, CSS/SASS, and PHP. 
 
 😄
