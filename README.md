@@ -1,5 +1,4 @@
-[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gabrielavila04@protonmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieleboneavila@gmail.com)](mailto:gabrieleboneavila@gmail.com)
 
 
 ### “The most important property of a program is whether it accomplishes the intention of its user.” ― C.A.R. Hoare
