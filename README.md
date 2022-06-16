@@ -1,7 +1,7 @@
 <h1 align="left">Oii 🙌</h1>
 
 ###
-<p align="left">Meu nome é Gabriel e eu sou um desenvolvedor React.JS e React Native.</p>
+<p align="left">Meu nome é Gabriel e crio aplicações com React.JS e React Native.</p>
 
 ###
 <div align="center">
