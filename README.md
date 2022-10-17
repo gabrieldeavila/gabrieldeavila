@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
-
+###
+<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=gabrieldeavila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
