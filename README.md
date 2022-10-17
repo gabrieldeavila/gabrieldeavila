@@ -47,4 +47,6 @@
   </a>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrieldeavila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###
