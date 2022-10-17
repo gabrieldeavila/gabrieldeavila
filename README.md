@@ -1,7 +1,7 @@
-<h1 align="left">Oii 🙌</h1>
+<h1 align="left">Hi folks 🙌</h1>
 
 ###
-<p align="left">Meu nome é Gabriel e crio aplicações com React.JS e React Native.</p>
+<p align="left">My name's Gabriel and I develop web apps</p>
 
 ###
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 ###
-<h3 align="left">Techs que eu uso</h3>
+<h3 align="left">Techs I use</h3>
 
 ###
 <div align="left">
@@ -24,9 +24,9 @@
 </div>
 
 ###
-<h3 align="left">Techs que estou aprendendo</h3>
-
+<h3 align="left">Techs I'm learning</h3>
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
@@ -35,18 +35,11 @@
 </div>
 
 ###
-<h4 align="left">Minhas redes</h4>
 
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-ebone-de-%C3%A1vila-67300a238/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@gabrieleboneavila" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
-###
 <br/>
+<br/>
+<br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gabrieldeavila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+###
